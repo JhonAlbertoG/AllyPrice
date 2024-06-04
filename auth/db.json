@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": "d1af",
+      "nombre": "jhon",
+      "email": "jhon@gmail.com",
+      "password": "pokemon",
+      "cpassword": "pokemon"
+    },
+    {
+      "id": "dc3b",
+      "nombre": "jhona",
+      "email": "jhona@gmail.com",
+      "password": "pokemon",
+      "cpassword": "pokemon"
+    },
+    {
+      "id": "60c9",
+      "nombre": "jhoni",
+      "email": "jhoni@gmail.com",
+      "password": "pokemon4",
+      "cpassword": "pokemon4"
+    }
+  ]
+}
