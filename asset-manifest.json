@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.890f2c1a.css",
-    "main.js": "/static/js/main.fdcaabf8.js",
-    "static/js/453.e6deba32.chunk.js": "/static/js/453.e6deba32.chunk.js",
-    "index.html": "/index.html",
-    "main.890f2c1a.css.map": "/static/css/main.890f2c1a.css.map",
-    "main.fdcaabf8.js.map": "/static/js/main.fdcaabf8.js.map",
-    "453.e6deba32.chunk.js.map": "/static/js/453.e6deba32.chunk.js.map"
+    "main.css": "/AllyPrice/static/css/main.890f2c1a.css",
+    "main.js": "/AllyPrice/static/js/main.0cd84a1b.js",
+    "static/js/453.e6deba32.chunk.js": "/AllyPrice/static/js/453.e6deba32.chunk.js",
+    "index.html": "/AllyPrice/index.html",
+    "main.890f2c1a.css.map": "/AllyPrice/static/css/main.890f2c1a.css.map",
+    "main.0cd84a1b.js.map": "/AllyPrice/static/js/main.0cd84a1b.js.map",
+    "453.e6deba32.chunk.js.map": "/AllyPrice/static/js/453.e6deba32.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.890f2c1a.css",
-    "static/js/main.fdcaabf8.js"
+    "static/js/main.0cd84a1b.js"
   ]
 }
